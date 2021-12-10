@@ -1,1 +1,2 @@
-# api-auth-with-jwt
+API Authentication with JWT
+Install with 'npm start'
